@@ -1,9 +1,0 @@
-SUBSTITUA NO GITHUB ESTES 3 ARQUIVOS:
-
-index.html
-script.js
-style.css
-
-Os tres devem ficar na raiz do repositorio, no mesmo nivel.
-Este novo script.js ja possui a capa incorporada e nao depende de ebook-cover.webp.
-Depois de substituir os arquivos, faca Commit changes e aguarde o GitHub Pages atualizar.
