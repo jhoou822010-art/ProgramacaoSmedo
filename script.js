@@ -1,4 +1,4 @@
-const whatsappNumber = '5543996482559';
+const whatsappNumber = '5543984539910';
 const checkoutForm = document.querySelector('#checkout-form');
 const errorBox = document.querySelector('#form-error');
 const successState = document.querySelector('#success-state');
